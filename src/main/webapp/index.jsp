@@ -16,7 +16,7 @@
             <option value="Dr. Smith - Cardiologist">Dr. Smith - Cardiologist</option>
             <option value="Dr. Brown - Orthopedic">Dr. Brown - Orthopedic</option>
             <option value="Dr. Lee - Dermatologist">Dr. Lee - Dermatologist</option>
-            <option value="Dr. Patel - General Physician">Dr. Patel - General Physician</option>
+            <option value="Dr. Patel - General Physician">Dr. Peter - General Physician</option>
         </select><br><br>
 
         <label for="appointmentDate">Appointment Date 📅:</label>
